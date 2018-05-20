@@ -9,9 +9,9 @@ About the project:
 Here is the demo of the page generated.
 
 how to use the code:
-        Install Python
-        Clone the project to your local environment
-        Open a shell interface and move to the project directory
-        Execute python entertainment_center.py
-        The website is now displayed on your default web browser
-        All the files must be in same directory
+        1)Install Python
+        2)Clone the project to your local environment
+        3)Open a shell interface and move to the project directory
+        4)Execute python entertainment_center.py
+        5)The website is now displayed on your default web browser
+        6)All the files must be in same directory
