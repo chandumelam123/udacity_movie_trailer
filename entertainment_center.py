@@ -1,6 +1,6 @@
 import media
 import fresh_tomatoes
-#first movie
+#first movie trailer
 winner=media.Movie("Winner","The story of a person who lost his father and mett his father after few years","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMCIN4RZp5Qh1D93HsbXQaTDncUdsaNv1Uk5yoX6Qlf83klDR","https://www.youtube.com/watch?v=iEokJEmGj94")
 #second movie
 spyder=media.Movie("Spyder","The story of a person who spy on public and saves them from dangers","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5_yDMXkrjHn7T63_XpMzMKJ73Gp7aG9Y-YrOmL_o91EAuYAUTQ","https://www.youtube.com/watch?v=og1zP3u0b4k")
