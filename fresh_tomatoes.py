@@ -3,7 +3,7 @@ import os
 import re
 
 # Styles and scripting for the page
-main_page_head = '''
+main_page_head =  '''
 <head>
     <meta charset="utf-8">
     <title>Movie Trailers</title>
